@@ -1,0 +1,11 @@
+.env
+.idea
+Include
+Lib
+Scripts
+data
+*.cfg
+*.jpg
+*.png
+*.mp4
+*.mkv
