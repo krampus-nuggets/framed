@@ -24,3 +24,5 @@ FRAMED is a simple tool for converting a video file to individual frames. This t
 4. It will auto-detect any **MP4** video files in the *data/footage* directory and display it in the CLI
 5. Select a video to process and a progress spinner will appear, wait till it completes
 6. Once completed all the frames from the video will be in the *data/frames/<video-name>* directory
+
+**Example** - [Video Link](https://res.cloudinary.com/wemakeart/video/upload/v1633018666/github-projects/framed/framed-example_vq5xrn.mp4)
