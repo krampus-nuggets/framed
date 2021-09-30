@@ -15,7 +15,7 @@ FRAMED is a simple tool for converting a video file to individual frames. This t
 ---
 
 <p align="center">
-<img src="https://res.cloudinary.com/wemakeart/image/upload/v1633017830/github-projects/framed/framed-example_pmjvz1.gif" width=100%  alt="docs-icon"/>
+<img src="https://res.cloudinary.com/wemakeart/image/upload/v1633018505/github-projects/framed/45_mkferb.png" width=100%  alt="docs-icon"/>
 </p>
 
 1. Clone the repository and install the requirements.txt file (*Create a venv first*)
