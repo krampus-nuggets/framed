@@ -1,3 +1,4 @@
+# VENV Files
 .env
 .idea
 Include
@@ -5,6 +6,9 @@ Lib
 Scripts
 data
 *.cfg
+__pycache__
+
+# Project Files
 *.jpg
 *.png
 *.mp4
