@@ -8,7 +8,6 @@
 
 FRAMED is a simple tool for converting a video file to individual frames. This tool was created for processing videos into frames so that the images can be fed into **labelImg** for image annotation. The processed images will then be ready for ingest when training with **YOLO v5**.
 
-**NOTE** - This tool does not set dimensions so you'll have to set your video dimensions before hand (ex. 640x640)
 
 ## Usage
 
